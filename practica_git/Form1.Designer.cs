@@ -31,7 +31,7 @@ partial class Form1
         components = new System.ComponentModel.Container();
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(800, 450);
-        Text = "Nuevo formulario";
+        Text = "Form1";
     }
 
     #endregion
