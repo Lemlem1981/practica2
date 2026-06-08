@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practica_git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97575660dd1cfb4a54fb929472363bbc84fe8e34")]
 [assembly: System.Reflection.AssemblyProductAttribute("practica_git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practica_git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
